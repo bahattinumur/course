@@ -1,12 +1,14 @@
 
-<h1> COURSE </h1>
+<h1>ADVENTURE</h1>
 
-This is the interface example of an education course website .
+This is an interface example of an education course website.
 
-<h2> Course Website </h2>
+<h2> Software Languages </h2>
 
-I Made by using HTML & CSS.
+- HTML
 
-<h2> Screen GIF </h2>
+- CSS
+
+<h2> Screen Gif </h2>
 
 ![](Course.gif)
